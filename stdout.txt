@@ -1,0 +1,7 @@
+Reading config file C:\Users\ASUS-ROG\Downloads\snes9x.conf.
+Saving	config file	C:\Users\ASUS-ROG\Downloads\snes9x.conf
+No ROM file header found.
+Map_HiROMMap
+"Hu SUPER BOMBERMAN 5G1" [checksum ok] HiROM, 16Mbits, ROM+RAM+BAT, NTSC, SRAM:64Kbits, ID:AK8J, CRC32:4590AE9D
+Saving	config file	C:\Users\ASUS-ROG\Downloads\snes9x.conf
+Saving	config file	C:\Users\ASUS-ROG\Downloads\snes9x.conf
